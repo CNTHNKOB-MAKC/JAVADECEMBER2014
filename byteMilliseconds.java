@@ -8,7 +8,7 @@ public class byteMilliseconds
 		/*
 		 * byte, Byte short, Short int, Integer,
 		 * AtomicInteger(mutable/changable), BigInteger(immutable) long Long
-		 * AtomicLong float Float double Double BigDecimal(immutable) char
+		 * AtomicLong float Float double Double BigDecimal(immutable) char // *
 		 * String Character boolean Boolean
 		 */
 		public static void main(String[] args)
